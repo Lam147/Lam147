@@ -1,4 +1,4 @@
-## Leonardo Melo 👋
+## Leonardo Melo 😎
 
 🎓 Graduado em Análise e Desenvolvimento de Sistemas
  
