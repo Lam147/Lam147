@@ -6,7 +6,7 @@
 
 💻 Testes e Qualidade de Software (QA)
 
-🤖 Inteligência Artificial e Engenharia de Prompt
+🧠🤖 Inteligência Artificial e Engenharia de Prompt
 
 🏦🎲 Banco de Dados
 
