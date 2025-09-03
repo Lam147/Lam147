@@ -8,8 +8,10 @@
 
 🤖 Inteligência Artificial e Engenharia de Prompt
 
-🇺🇸 Inglês
+🏦🎲 Banco de Dados
 
+
+🇺🇸 Inglês
 
 🇪🇸 Espanhol
 
