@@ -9,8 +9,9 @@
 🧠🤖 Inteligência Artificial e Engenharia de Prompt
 
 🏦🎲 Banco de Dados
-💻🐍 Python
 
+
+💻🐍 Python
 
 🇺🇸 Inglês
 
