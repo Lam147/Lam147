@@ -4,18 +4,20 @@
  
 📚 Estudando sobre:
 
-💻 Testes e Qualidade de Software (QA)
+🏦🎲 Banco de Dados
+
+🇪🇸 Espanhol
+
 
 🧠🤖 Inteligência Artificial e Engenharia de Prompt
 
-🏦🎲 Banco de Dados
-
+🇺🇸 Inglês
 
 💻🐍 Python
 
-🇺🇸 Inglês
+💻 Testes e Qualidade de Software (QA)
 
-🇪🇸 Espanhol
+
 
 ---
 ---
