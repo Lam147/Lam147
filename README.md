@@ -1,21 +1,21 @@
 ## Leonardo Melo 😎
 
-🎓    Graduado em Análise e Desenvolvimento de Sistemas
+   🎓 Graduado em Análise e Desenvolvimento de Sistemas
  
-📚    Estudando sobre:
+   📚 Estudando sobre:
 
-🏦🎲  Banco de Dados
+ 🏦🎲 Banco de Dados
 
-🇪🇸    Espanhol
+   🇪🇸 Espanhol
 
 
-🧠🤖  Inteligência Artificial e Engenharia de Prompt
+ 🧠🤖 Inteligência Artificial e Engenharia de Prompt
 
-🇺🇸    Inglês
+   🇺🇸 Inglês
 
-💻🐍  Python
+  🖥🐍 Python
 
-💻    Testes e Qualidade de Software (QA)
+   💻 Testes e Qualidade de Software (QA)
 
 
 
