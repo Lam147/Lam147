@@ -1,8 +1,8 @@
 ## Leonardo Melo 😎
 
-📗🎓 Graduado em Análise e Desenvolvimento de Sistemas
+🎓🎓 Graduado em Análise e Desenvolvimento de Sistemas
  
-📔📚 Estudando sobre:
+📚📓 Estudando sobre:
 
 📖🇪🇸 Espanhol
 
@@ -10,6 +10,8 @@
 
 🧠🤖 Inteligência Artificial e Engenharia de Prompt
 
+
+Cloud Computing:
 
 ☁️  AZ-900 Microsoft Azure Fundamentals
 
