@@ -4,19 +4,16 @@
  
 📔📚 Estudando sobre:
 
-🏦🎲 Banco de Dados
-
 📖🇪🇸 Espanhol
-
-
-🧠🤖 Inteligência Artificial e Engenharia de Prompt
 
 📘🇺🇸 Inglês
 
-📙🐍 Python
+🧠🤖 Inteligência Artificial e Engenharia de Prompt
 
-📒💻 Testes e Qualidade de Software (QA)
 
+☁️  AZ-900 Microsoft Azure Fundamentals
+☁️  AZ-104 Azure Administrator
+☁️  AZ-305 Azure Solutions Architect
 
 
 ---
