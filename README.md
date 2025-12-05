@@ -4,13 +4,6 @@
  
 📚📓 Estudando sobre:
 
-📖🇪🇸 Espanhol
-
-📘🇺🇸 Inglês
-
-🧠🤖 Inteligência Artificial e Engenharia de Prompt
-
-
 Cloud Computing:
 
 ☁️  AZ-900 Microsoft Azure Fundamentals
@@ -19,6 +12,11 @@ Cloud Computing:
 
 ☁️  AZ-305 Azure Solutions Architect
 
+📖🇪🇸 Espanhol
+
+📘🇺🇸 Inglês
+
+🧠🤖  Inteligência Artificial e Engenharia de Prompt
 
 ---
 ---
