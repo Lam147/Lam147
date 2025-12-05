@@ -12,7 +12,9 @@
 
 
 ☁️  AZ-900 Microsoft Azure Fundamentals
+
 ☁️  AZ-104 Azure Administrator
+
 ☁️  AZ-305 Azure Solutions Architect
 
 
