@@ -4,7 +4,7 @@
  
 📚📓 Estudando sobre:
 
-☁️  Cloud Computing
+☁️💻  Cloud Computing
 
 ☁️  AZ-900 Microsoft Azure Fundamentals
 
